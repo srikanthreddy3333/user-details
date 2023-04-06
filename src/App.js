@@ -1,4 +1,7 @@
 import UserProfile from './components/UserProfile/index'
+import './App.css'
+
+
 const userDetailsList = [
   {
     uniqueNo: 1,
